@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chatbox-application/static/css/main.05831371.css",
+    "main.js": "/chatbox-application/static/js/main.20fcd47e.js",
+    "static/js/787.2b8a1820.chunk.js": "/chatbox-application/static/js/787.2b8a1820.chunk.js",
+    "index.html": "/chatbox-application/index.html",
+    "main.05831371.css.map": "/chatbox-application/static/css/main.05831371.css.map",
+    "main.20fcd47e.js.map": "/chatbox-application/static/js/main.20fcd47e.js.map",
+    "787.2b8a1820.chunk.js.map": "/chatbox-application/static/js/787.2b8a1820.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05831371.css",
+    "static/js/main.20fcd47e.js"
+  ]
+}
